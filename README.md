@@ -1,2 +1,4 @@
 # xshadow
-This software is like it's name ninja stuff 💀for terminal super-user only😈
+This software is like its name ninja stuff 💀for terminal super-user only😈
+
+#TODO:
