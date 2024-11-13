@@ -1,5 +1,5 @@
 # xshadow
-☢   Disclaimer!!  ☢
+### ☢   Disclaimer!!  ☢
 
 this software may will be useful in the future, but not now.<br>
 It's in the designing phase, then dev phase.<br>
@@ -7,7 +7,7 @@ thus, please stay away from it.<br>
 
 it requires the following just to do its Normal functions :
 + Full Access to the Internet (Network Connection)
-+ It dose tons of operation on the System
++ It dose tons of operations on the System
 + Root (Administration Privileges) !!
 + It contains a lot of Binaries
 
