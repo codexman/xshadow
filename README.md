@@ -14,7 +14,7 @@ it requires the following just to do its Normal functions :
 It's enough to know that, what this software is capable of.<br>
 Any simple issue may turns this software into Harmful Software 😕.
 
-So, if you want to use it, before it's released, then use it at your on RiSK !!<br>
+So, if you want to use it, before it's released, then use it at your OWN RiSK !!<br>
 ### _**`"With Great Power, Comes Great Responsibility"`**_
 
 
