@@ -25,19 +25,19 @@ So, if you want to use it, before it's released, then use it at your OWN RiSK !!
 
  _ `Powershell` _
  <br>
-* [] Automata
+* [ ] Automata
 
 
 _ `Bash Script` _
 <br>
 * Front-End
-    - [] Main Menu
-    - [] Sub-Menus
+    - [ ] Main Menu
+    - [ ] Sub-Menus
 <br>
 * Back-End `SysV`
-    - [] Main Modules `SysV Main Args`
-    - [] Sub-Modules `inner & outer Args`
-    - [] Connection `SysV` with `Automata`
+    - [ ] Main Modules `SysV Main Args`
+    - [ ] Sub-Modules `inner & outer Args`
+    - [ ] Connection `SysV` with `Automata`
 
 ### The Core Features, _ that We Should Focus on Are _:
 * The ability of selecting by using `VimV module`.
