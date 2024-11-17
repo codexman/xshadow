@@ -23,18 +23,18 @@ So, if you want to use it, before it's released, then use it at your OWN RiSK !!
 
 ## TODO:
 
- _ `Powershell` _
+ _`Powershell`_
  <br>
 * [ ] Automata
 
 
-_ `Bash Script` _
+_`Bash Script`_
 <br>
 * Front-End
     - [ ] Main Menu
     - [ ] Sub-Menus
 <br>
-* Back-End `SysV`
+* Back-End _**SysV**_
     - [ ] Main Modules `SysV Main Args`
     - [ ] Sub-Modules `inner & outer Args`
     - [ ] Connection `SysV` with `Automata`
